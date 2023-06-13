@@ -20,8 +20,8 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
-    externalDNS: false
+    domain: "jx.nw.2345.cn"
+    externalDS: false
     namespaceSubDomain: -jx.
     tls:
       email: ""
